@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jysan Aziz</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <h4 align="center">Current Designation: Lead Software Developer</h4>
+<h4 align="center">Current Company: Reddot Digital Limited (A subisidary of Robi Axiata Ltd.)</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeexan2" alt="jeexan2" /></a> </p>
 
