@@ -72,14 +72,8 @@
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
-  </a>
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
-  </a>
-  <a href="https://akka.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Akka_logo.svg" alt="Akka" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JVM" width="40" height="40" />
