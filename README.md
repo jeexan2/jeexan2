@@ -75,18 +75,4 @@
 </p>
 
 ---
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeexan2&show_icons=true&locale=en&theme=radical" alt="jeexan2" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeexan2&theme=radical" alt="jeexan2 streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeexan2&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages - jeexan2" />
-</p>
-
----
-
 Let’s collaborate and build something amazing together! 🚀
