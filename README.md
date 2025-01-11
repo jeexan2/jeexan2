@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jysan Aziz</h1>
 <h3 align="center">A passionate and versatile Senior Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeexan2&label=Profile%20views&color=0e75b6&style=flat" alt="jeexan2" /> </p>
 
 ---
 
