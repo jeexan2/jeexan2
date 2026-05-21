@@ -42,8 +42,8 @@
 ---
 
 ### 📊 **Technical Skills**
-- **Programming Languages**: Java, Scala, Kotlin, Python, C++
-- **Frameworks & Libraries**: Spring Boot, Akka, Hibernate, JPA
+- **Programming Languages**: Java, Scala, Kotlin, Python, C++, C#
+- **Frameworks & Libraries**: Spring Boot, Akka, Hibernate, JPA, .NET
 - **Databases**: PostgreSQL, MySQL, MSSQL, Redis
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Git, CI/CD pipelines
 - **Message Queues**: Kafka, RabbitMQ
@@ -72,6 +72,9 @@
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+</a>
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
   </a>
